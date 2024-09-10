@@ -10,7 +10,7 @@ Projeto desenvolvido no curso de formação assíncrona para professores da plat
 
 ## 📁 Acesso ao projeto
 
-Você pode [baixar o código fonte do projeto](https://codeload.github.com/silviosnjr/Hello-World/zip/refs/heads/main).
+Você pode [baixar o código fonte do projeto](https://francisco2024tecnologia.github.io/HelloWorld/)
 
 ## 🛠️ Abrir e rodar o projeto
 
